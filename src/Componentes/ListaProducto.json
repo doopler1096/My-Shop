@@ -1,0 +1,32 @@
+{
+    "ListaProducto": [
+        {
+            "titulo": "opo movil eva 01",
+        "imagen": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F05%2Foppo-evangelion-reno-ace-2-smartphone-release-03.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+        "precio" : "875.000",
+        "descripcion": "Teléfono celular marca OPO con motivo de el EVA 01",
+        "stock": "1"
+        },
+        {
+        "titulo": "opo watch eva 02",
+        "imagen": "https://esdegamers.com/wp-content/uploads/2020/06/100991410_1404881489720484_5190363751244627968_o-1024x683.jpg",
+        "precio": "450.000", 
+        "descripcion": "smart watch marca opo con motivo del EVA 02",
+        "stock": "14"
+        },
+        {
+        "titulo": "opo movil league of legends",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/MKMYOQAQJZHZJBT7WRJG5NB3MU.png",
+        "precio": "930.000",
+        "descripcion": "Teléfono celular opo con motivo de league of legends",
+        "stock": "8"
+        },
+        {
+        "titulo": "opo headsets evangelion",
+        "imagen": "https://pixelzila.com/wp-content/uploads/2020/04/evangelion-audifonos.png",
+        "precio": "780.000",
+        "descripcion": "audifonos inalambricos marca oppo con motivo de los EVAs",
+        "stock": "12"
+        }
+    ]
+}
